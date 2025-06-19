@@ -1,10 +1,10 @@
-# 🧠 Water Quality Contamination Prediction – ML Models
+#  Water Quality Contamination Prediction – ML Models
 
 This repository contains machine learning models built to predict whether a water sample is **contaminated or safe**, using environmental monitoring data collected across India (2012–2023). The dataset used for training and evaluation was obtained from a separate open-source repository (see below).
 
 ---
 
-## 📦 Dataset Source
+##  Dataset Source
 
 The full dataset, preprocessing steps, and feature documentation are hosted here:  
 🔗 **[Water Quality Dataset (India) – Gathering & Preprocessing](https://github.com/KunalLatkar/RiverWaterQualityDataset)**
@@ -16,7 +16,7 @@ This includes:
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To train, evaluate, and compare different classical machine learning algorithms for:
 - **Binary classification** of water contamination
@@ -25,7 +25,7 @@ To train, evaluate, and compare different classical machine learning algorithms 
 
 ---
 
-## 🧪 Models Implemented
+##  Models Implemented
 
 | Model Name               | Description                                              |
 |--------------------------|----------------------------------------------------------|
@@ -39,7 +39,7 @@ All models were trained on the same dataset split and evaluated using consistent
 
 ---
 
-## 📊 Features Used
+##  Features Used
 
 - Temperature (Min/Max)
 - Dissolved Oxygen (Min/Max)
